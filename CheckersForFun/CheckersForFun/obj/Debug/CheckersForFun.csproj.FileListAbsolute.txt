@@ -1,0 +1,9 @@
+C:\Users\Panos\source\repos\CheckersForFun\CheckersForFun\bin\Debug\CheckersForFun.exe.config
+C:\Users\Panos\source\repos\CheckersForFun\CheckersForFun\bin\Debug\CheckersForFun.exe
+C:\Users\Panos\source\repos\CheckersForFun\CheckersForFun\bin\Debug\CheckersForFun.pdb
+C:\Users\Panos\source\repos\CheckersForFun\CheckersForFun\obj\Debug\CheckersForFun.csprojAssemblyReference.cache
+C:\Users\Panos\source\repos\CheckersForFun\CheckersForFun\obj\Debug\CheckersForFun.Form1.resources
+C:\Users\Panos\source\repos\CheckersForFun\CheckersForFun\obj\Debug\CheckersForFun.Properties.Resources.resources
+C:\Users\Panos\source\repos\CheckersForFun\CheckersForFun\obj\Debug\CheckersForFun.csproj.GenerateResource.cache
+C:\Users\Panos\source\repos\CheckersForFun\CheckersForFun\obj\Debug\CheckersForFun.exe
+C:\Users\Panos\source\repos\CheckersForFun\CheckersForFun\obj\Debug\CheckersForFun.pdb
